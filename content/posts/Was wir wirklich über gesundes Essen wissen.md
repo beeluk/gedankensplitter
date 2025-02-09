@@ -24,7 +24,7 @@ Zucker ist ein wahnsinnig günstiges Lebensmittel[^2]. Die Industrie verwendet i
 
 Der Schlüssel ist das Protein. Während Fette und Kohlenhydrate einfach "Brennmaterial" sind, benötigt der Körper (die Zellen) Proteine. **Ist die Nahrung proteinreich, sind wir schneller satt.**
 
-[[Auch Weissmehl kann man zu den verarbeitenen Lebensmittel zählen]].
+Auch Weissmehl kann man zu den verarbeitenen Lebensmittel zählen[^3].
 
 Zucker geht durch die Darmwand zur Leber. Glukose versorgt Zellen mit Energie, während Fructose in der Leber in Fett umgewandelt wird. **Zu viel Fructose führt zu einer Fettleber.**
 
@@ -37,3 +37,5 @@ Eine gute Alternative zu Zucker sind die Zuckeralkohole Xylith und Erythrit. Im 
 [^1]: [Anthony Fardet](https://www.republik.ch/2021/08/28/was-wir-wirklich-ueber-gesundes-essen-wissen?utm_source=pocket_mylist) meint mit dem Begriff "Matrix" die Umgebung der Nährstoffe und ihre Verbindung zueinander. Gut zeigen kann man dieses Prinzip am Beispiel des Orangensafts: Wenn man den Saft aus der Orange presst, verliert der Fruchtzucker seine Umgebung, das Fruchtfleisch, und damit Ballaststoffe, die das Lebensmittel schwerer verdaubar machen. Der Fruchtzucker gelangt so viel schneller und konzentrierter in den Körper. Ausserdem auch in viel grösserer Menge, da in einem Glas Orangensaft zwei bis drei Orangen Platz hätten
 
 [^2]: [Zucker ist so günstig, weil er vom Staat mit jährlich rund 70 Milionen Franken subventioniert wird.](https://www.republik.ch/2022/01/08/die-suesse-macht-teil-1-gib-mir-zuckerbrot?utm_source=pocket_mylist) Ohne diese Subventionen wären die Schweizer Rübenbauern gar nicht in der Lage, wettbewerbsfähig zu produzieren. Der Staat ist aber auch verantwortlich für die Gesundheit seiner Bürger. Mit der Subvention des [[Zucker]]s und der Verhinderung von Transparenz erfüllt er hier aber seine Rolle nicht.
+
+[^3]: Weissmehl enthält nur einen Teil des Getreidekorns und hat damit deutlich weniger Ballaststoffe, Vitamine und Mineralien als Vollkorn.
