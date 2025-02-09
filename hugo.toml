@@ -13,7 +13,7 @@ pagerSize = 5
   ShowShareButtons = false
   ShowToc = true
   ShowBreadCrumbs = true
-  dateFormat = "2. Januar 2006"
+  dateFormat = "2.5.2006"
 
 [menu]
   [[menu.main]]
