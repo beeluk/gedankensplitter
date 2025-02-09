@@ -1,14 +1,6 @@
 ---
-title: "Sie holen die Kinder vom Polizeiposten ab"
+title: "Die Kinder der unerwünschten Eltern"
 date: 2021-10-08
-draft: false
-tags: ["Gesellschaft"]
-categories: ["Artikel"]
----
-
----
-title: "Sie holen die Kinder vom Polizeiposten ab"
-date: 2021-10-06
 draft: false
 tags: ["Gesellschaft"]
 categories: ["Artikel"]
