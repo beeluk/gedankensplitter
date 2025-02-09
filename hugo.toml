@@ -1,4 +1,4 @@
-baseURL = "https://beeluk.github.io/testseite/"
+baseURL = "https://gedankensplitter.netifly.app/"
 title = "GedankenSplitter"
 theme = "PaperMod"
 languageCode = "de-DE"
