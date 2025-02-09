@@ -1,8 +1,10 @@
 ---
-publish: true
-tag: artikel
+title: "Sie holen die Kinder vom Polizeiposten ab"
+date: 2021-10-08
+draft: false
+tags: ["Gesellschaft"]
+categories: ["Artikel"]
 ---
-# Sie holen die Kinder vom Polizeiposten ab
 
 von Alessandra Paone und Philippe Reichen
 aus [[der Bund]] 8.10.[[2021]]
