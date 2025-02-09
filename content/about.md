@@ -5,6 +5,7 @@ description: "Erfahre mehr über mich und diesen Blog."
 showToc: false
 hideMeta: true
 disableShare: true
+draft: false
 ---
 
 Mein Name ist Lukas Beer, ich lebe mit meiner Familie in Bern und leite eine Schule.
