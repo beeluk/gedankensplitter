@@ -1,7 +1,7 @@
 ---
 title: "Mein erster Blogpost"
 date: 2025-02-08
-draft: false
+draft: true
 tags: ["Erste Schritte", "Hugo"]
 categories: ["Allgemein"]
 ---
