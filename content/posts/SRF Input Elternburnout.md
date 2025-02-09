@@ -6,8 +6,8 @@ tags: ["Gesundheit", "Resilienz"]
 categories: ["Meinung"]
 ---
 
-Show: [SRF Input](https://www.srf.ch/audio/input/elternburnout-wenn-der-vater-ausbrennt?id=12291025)
-gehört im November [[2022]]
+*Show: [SRF Input](https://www.srf.ch/audio/input/elternburnout-wenn-der-vater-ausbrennt?id=12291025)
+gehört im November 2022*
 
 Eine hörenswerte Podcastfolge zum Thema Burnout. Mit Elternburnout ist eine Erschöpfungsdepression gemeint, die nicht wegen beruflicher Überlastung entsteht, sondern durch die private Belastung.
 Auch in einem als normal und gesund wahrgenommenenen Familiensystem kann diese Erkrankung vorkommen. 
