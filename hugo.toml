@@ -8,7 +8,7 @@ pagerSize = 5
 
 
 [params]
-  homeInfoParams = { Title = "Willkommen in meine digitale Sammlung.", Content = "Notizen, Gedanken, Zusammenfassungen, Zitate, ... ohne Anspruch auf Vollständigkeit und Perfektion." }
+  homeInfoParams = { Title = "Willkommen in meiner digitalen Sammlung.", Content = "Notizen, Gedanken, Zusammenfassungen, Zitate, ... ohne Anspruch auf Vollständigkeit und Perfektion." }
   ShowReadingTime = true
   ShowShareButtons = false
   ShowToc = true
