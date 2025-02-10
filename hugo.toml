@@ -35,6 +35,6 @@ pagerSize = 5
     weight = 20
   [[menu.main]]
     identifier = "search"
-    name = "🔍"
+    name = "Suche"
     url = "/search/"
     weight = 30
