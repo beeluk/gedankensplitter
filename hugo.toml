@@ -1,5 +1,5 @@
 baseURL = "https://gedankensplitter.netlify.app/"
-title = "GedankenSplitter"
+title = "Lukas' GedankenSplitter"
 theme = "PaperMod"
 languageCode = "de-DE"
 
@@ -8,7 +8,7 @@ pagerSize = 5
 
 
 [params]
-  homeInfoParams = { Title = "Willkommen bei GedankenSplitter", Content = "Ein Blog über meine Gedanken und Ideen." }
+  homeInfoParams = { Title = "Willkommen in meine digitale Sammlung.", Content = "Notizen, Gedanken, Zusammenfassungen, Zitate, ... ohne Anspruch auf Vollständigkeit und Perfektion." }
   ShowReadingTime = true
   ShowShareButtons = false
   ShowToc = true
