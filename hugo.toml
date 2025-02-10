@@ -31,3 +31,8 @@ pagerSize = 5
     name = "Über mich"
     url = "/about/"
     weight = 20
+  [[menu.main]]
+    identifier = "search"
+    name = "Suche"
+    url = "/search/"
+    weight = 30
