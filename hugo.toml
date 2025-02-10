@@ -6,6 +6,8 @@ languageCode = "de-DE"
 [pagination]
 pagerSize = 5
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
 [params]
   homeInfoParams = { Title = "Willkommen in meiner digitalen Sammlung.", Content = "Notizen, Gedanken, Zusammenfassungen, Zitate, ... ohne Anspruch auf Vollständigkeit und Perfektion." }
