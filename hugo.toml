@@ -10,7 +10,7 @@ pagerSize = 5
   home = ["HTML", "RSS", "JSON"]
 
 [params]
-  homeInfoParams = { Title = "Willkommen in meiner digitalen Sammlung.", Content = "Notizen, Gedanken, Zusammenfassungen, Zitate, ... ohne Anspruch auf Vollständigkeit und Perfektion. Mehr über mich findest du [hier] ({{% ref "/about/" %}})." }
+  homeInfoParams = { Title = "Willkommen in meiner digitalen Sammlung.", Content = "Notizen, Gedanken, Zusammenfassungen, Zitate, ... ohne Anspruch auf Vollständigkeit und Perfektion. Mehr über mich findest du hier." }
   ShowReadingTime = true
   ShowShareButtons = false
   ShowToc = true
