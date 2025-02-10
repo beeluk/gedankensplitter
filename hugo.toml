@@ -23,7 +23,7 @@ pagerSize = 5
     weight = 10
   [[menu.main]]
     identifier = "archive"
-    name = "Archive"
+    name = "Archiv"
     url = "/archives/"
     weight = 12
   [[menu.main]]
