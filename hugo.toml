@@ -1,6 +1,7 @@
 baseURL = "https://gedankensplitter.netlify.app/"
 title = "Lukas Beer"
 theme = "PaperMod"
+defaultContentLanguage = "de"
 languageCode = "de-DE"
 
 [pagination]
