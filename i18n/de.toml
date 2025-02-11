@@ -1,0 +1,26 @@
+[read_more]
+other = "Weiterlesen"
+
+[posts]
+other = "Beiträge"
+
+[related]
+other = "Ähnliche Beiträge"
+
+[tags]
+other = "Themen"
+
+[categories]
+other = "Kategorien"
+
+[search]
+other = "Suche"
+
+[recent_posts]
+other = "Neueste Beiträge"
+
+[share]
+other = "Teilen"
+
+[reading_time]
+other = "{{ .Count }} min Lesezeit"
