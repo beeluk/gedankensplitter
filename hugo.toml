@@ -10,7 +10,7 @@ pagerSize = 5
   home = ["HTML", "RSS", "JSON"]
 
 [params]
-  homeInfoParams = { Title = "Willkommen in meiner digitalen Sammlung.", Content = "Notizen, Gedanken, Zusammenfassungen, Zitate, ... ohne Anspruch auf Vollständigkeit und Perfektion. Mehr über mich findest du hier." }
+  homeInfoParams = { Title = "Willkommen in meinem digitalen Notizbuch.", Content = "Hier schreibe ich für mich - eine lose, unvollständige Sammlung aus Ideen, Projekten und Inspirationen – seis über Pädagogik, Technik, Familie, Bücher, ... Stöbere mit, wenn du magst!" }
   ShowReadingTime = true
   ShowShareButtons = false
   ShowToc = true
