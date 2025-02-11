@@ -11,7 +11,7 @@ Nach Ostern haben wir zwei Nächte im Val-de-Travers verbracht. Übernachtet hab
 ## Creux du Van
 Bei der Hinreise wollten wir uns den Creux du Van anschauen. Leider war das Wetter besonders schlecht, dicke Schneeflocken haben uns auf der Anfahrt begleitet. Dementsprechend war auch die Sicht nicht besonders gut. Wir nehmen uns vor, wieder einmal hierhin zu kommen (dann hoffentlich wandernd).
 
-![[Val-de-Travers 2023/38811553-40B5-49F8-A99E-EE491C547FE2_1_105_c.jpeg|500]]
+![](Val-de-Travers 2023/38811553-40B5-49F8-A99E-EE491C547FE2_1_105_c.jpeg|500)
 ## Maison de l'Absinthe
 Der Absinth ist das wichtigste Produkt des Val-de-Travers und hatte seine Blüte um Ende 19., Anfang 20. Jahrhundert. Nachdem ein fürchterlicher Mord in der Romandie unter Absinth-Einfluss passiert ist[^1], wurde das Getränk in der Schweiz per Volksabstimmung verboten. Bis zur Aufhebung dieses Verbots wurde im Val-de-Travers aber immer illegal Absinth gebrannt. Im Museum erfährt man Geschichten aus dieser Zeit und natürlich darf am Schluss eine Degustation auch nicht fehlen.
 
@@ -23,7 +23,7 @@ Neben dem Creux-du-Van sind wahrscheinlich die Asphaltminen die grösste Attrakt
 Von einem Führer wird man durch den Eingangsbereich der Mine geführt und erfährt zweisprachig allerlei Wissenswertes über das Leben der Minenarbeiter gespickt mit vielen Geschichten und Sprüchen. Der Besuch ist empfehlenswert, jedoch für die Kinder fast etwas lang.
 Die meisten Besucher:innen verpflegen sich anschliessend im museumseigenen Restaurant mit der Hausspezialität, in Asphalt gekochtem Schinken mit Kartoffelgratin und Bohnen.[^2]
 
-![[Val-de-Travers 2023/8AF183B0-701C-4E88-B8BB-581E4A2542A6_1_102_o.jpeg|500]]
+![](Val-de-Travers 2023/8AF183B0-701C-4E88-B8BB-581E4A2542A6_1_102_o.jpeg|500)
 
 
 [^1]: Im Museum wird betont, der Absinth hätte absolut keinen Einfluss gehabt. Schliesslich sei der Mann Alkoholiker gewesen und habe schon zwei Liter Wein getrunken.
