@@ -18,7 +18,7 @@ Der Absinth ist das wichtigste Produkt des Val-de-Travers und hatte seine Blüte
 ## La Féeline
 Die Féeline ist eine Rodelbahn auf Schienen. Den Kindern (und uns auch) hat es grossen Spass gemacht. An einzelnen Tagen ist auch der Sessellift in Betrieb und man kann auf dem Berg wandern oder mit dem Trottibike zur Talstation runterfahren.
 
-## Asphaltminen ^d11af8
+## Asphaltminen
 Neben dem Creux-du-Van sind wahrscheinlich die Asphaltminen die grösste Attraktion im Val-de-Travers. Hier wurde bis 1986 Asphalt abgebaut und zeitweise war es die grösste Asphaltmine der Welt. Durch die Entwicklung synthetischen Asphalts war die Förderung nicht mehr lukrativ und die Mine wurde geschlossen. Seither steht sie Besuchern offen. 
 Von einem Führer wird man durch den Eingangsbereich der Mine geführt und erfährt zweisprachig allerlei Wissenswertes über das Leben der Minenarbeiter gespickt mit vielen Geschichten und Sprüchen. Der Besuch ist empfehlenswert, jedoch für die Kinder fast etwas lang.
 Die meisten Besucher:innen verpflegen sich anschliessend im museumseigenen Restaurant mit der Hausspezialität, in Asphalt gekochtem Schinken mit Kartoffelgratin und Bohnen.[^2]
