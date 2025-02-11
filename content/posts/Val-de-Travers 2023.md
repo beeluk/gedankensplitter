@@ -1,6 +1,6 @@
 ---
 title: "Val-de-Travers 2023"
-date: 2022-10-20
+date: 2023-05-09
 draft: false
 tags: ["Ferien"]
 categories: ["Unterwegs"]
