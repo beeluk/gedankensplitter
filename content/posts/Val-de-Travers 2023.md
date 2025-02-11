@@ -11,7 +11,7 @@ Nach Ostern haben wir zwei Nächte im Val-de-Travers verbracht. Übernachtet hab
 ## Creux du Van
 Bei der Hinreise wollten wir uns den Creux du Van anschauen. Leider war das Wetter besonders schlecht, dicke Schneeflocken haben uns auf der Anfahrt begleitet. Dementsprechend war auch die Sicht nicht besonders gut. Wir nehmen uns vor, wieder einmal hierhin zu kommen (dann hoffentlich wandernd).
 
-{{< figure src="images/Val-de-Travers 2023/38811553-40B5-49F8-A99E-EE491C547FE2_1_105_c.jpeg" alt="Creux du Van" title="Creux du Van" >}}
+{{< figure src="images/start.jpeg" alt="Creux du Van" title="Creux du Van" >}}
 ## Maison de l'Absinthe
 Der Absinth ist das wichtigste Produkt des Val-de-Travers und hatte seine Blüte um Ende 19., Anfang 20. Jahrhundert. Nachdem ein fürchterlicher Mord in der Romandie unter Absinth-Einfluss passiert ist[^1], wurde das Getränk in der Schweiz per Volksabstimmung verboten. Bis zur Aufhebung dieses Verbots wurde im Val-de-Travers aber immer illegal Absinth gebrannt. Im Museum erfährt man Geschichten aus dieser Zeit und natürlich darf am Schluss eine Degustation auch nicht fehlen.
 
