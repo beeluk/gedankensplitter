@@ -6,7 +6,7 @@ tags: ["Sachbuch"]
 categories: ["Buch"]
 ---
 
-*von [[Derek Sivers]], gelesen 2022*
+*von Derek Sivers, gelesen 2022*
 
 Derek Siver schreibt in diesem Buch über viele Themen, die mich immer wieder verunsichern im Leben. Beispielsweise: Was denken andere über mich? Sind meine Entscheidungen richtig? In den kurzen Kapiteln kann man immer wieder etwas Inspiration mitnehmen. Das Buch ist [kostenlos auf Dereks Seite](https://sive.rs/n) verfügbar.
 
