@@ -3,7 +3,7 @@ title: "Die sonderbare Buchhandlung des Mr. Penumbra"
 date: 2021-10-19
 draft: false
 tags: ["Belletristik", "Medien und Informatik"]
-categories: ["Bücher"]
+categories: ["Buch"]
 ---
 
 *von Robin Sloan (2014)
