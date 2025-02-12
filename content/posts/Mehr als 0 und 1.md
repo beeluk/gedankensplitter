@@ -3,7 +3,7 @@ title: "Mehr als 0 und 1"
 date: 2021-09-24
 draft: false
 tags: ["Medien und Informatik"]
-categories: ["Bücher"]
+categories: ["Buch"]
 ---
 
 *von Beat Döbeli Honegger (2017)
