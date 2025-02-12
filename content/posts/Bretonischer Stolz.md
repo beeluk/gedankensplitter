@@ -3,7 +3,7 @@ title: "Bretonischer Stolz"
 date: 2021-10-16
 draft: false
 tags: ["Belletristik", "Krimi"]
-categories: ["Bücher"]
+categories: ["Buch"]
 ---
 
 von Jean-Luc Bannalec (2016)
