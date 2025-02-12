@@ -3,7 +3,7 @@ title: "Hell Yeah or No"
 date: 2022-04-14
 draft: false
 tags: ["Sachbuch"]
-categories: ["Bücher"]
+categories: ["Buch"]
 ---
 
 *von [[Derek Sivers]], gelesen 2022*
