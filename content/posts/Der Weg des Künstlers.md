@@ -3,7 +3,7 @@ title: "Der Weg des Künstlers"
 date: 2022-04-20
 draft: false
 tags: ["Leben", "Gesundheit"]
-categories: ["Bücher"]
+categories: ["Buch"]
 ---
 
 *von Julia Cameron (1992)
