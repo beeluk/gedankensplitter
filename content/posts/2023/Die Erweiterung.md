@@ -1,7 +1,7 @@
 ---
 title: "Die Erweiterung"
 date: 2023-4-16
-draft: true
+draft: false
 tags: ["Belletristik"]
 categories: ["Buch"]
 ---
@@ -9,9 +9,6 @@ categories: ["Buch"]
 *von Robert Menasse (2022)
 gelesen im Februar 2023*
 
-<img src="https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_417586/014ddee3-3bc8-4e38-9a4f-5556ed6e7476.png" alt="Alternativer Text" width="200">
-
----
 Die Erweiterung ist eine Fortsetzung des Romans *Die Hauptstadt*, in dem humorvoll das Innenleben der Europäischen Kommission porträtiert wird.
 Im zweiten Teil geht es um die Beitrittsverhandlungen mit dem Westbalkan, über taktische Versprechungen von Unmöglichem und zwei (unglückliche) Liebesgeschichten. Ein grosser Teil der Handlung spielt in Albanien. Mir hat das Buch Spass gemacht, weil ich viel über (das mir unbekannte) Albanien erfahren habe und anschliessend erfahren wollte. Die Figuren im Buch sind zwar alle erfunden - sie sind aber so nahe an der Realität geschrieben, dass man die echten Politiker in ihnen wiedererkennt.
 
