@@ -23,7 +23,7 @@ Neben dem Creux-du-Van sind wahrscheinlich die Asphaltminen die grösste Attrakt
 Von einem Führer wird man durch den Eingangsbereich der Mine geführt und erfährt zweisprachig allerlei Wissenswertes über das Leben der Minenarbeiter gespickt mit vielen Geschichten und Sprüchen. Der Besuch ist empfehlenswert, jedoch für die Kinder fast etwas lang.
 Die meisten Besucher:innen verpflegen sich anschliessend im museumseigenen Restaurant mit der Hausspezialität, in Asphalt gekochtem Schinken mit Kartoffelgratin und Bohnen.[^2]
 
-{{< figure src="bex.jpeg" alt="Bex" title="In den Salzminen" >}}
+{{< figure src="bex.jpeg" alt="Asphaltminen" title="In den Asphaltminen" >}}
 
 
 [^1]: Im Museum wird betont, der Absinth hätte absolut keinen Einfluss gehabt. Schliesslich sei der Mann Alkoholiker gewesen und habe schon zwei Liter Wein getrunken.
