@@ -1,3 +1,9 @@
 {{ define "main" }}
-  {{ partial "posts-list.html" . }}
+  <h1>Entwürfe</h1>
+  <ul>
+    {{ $pages := where site.RegularPages "Draft" true }}
+    {{ range $pages }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
 {{ end }}
