@@ -6,8 +6,6 @@ tags: ["Erziehung"]
 categories: ["Buch"]
 ---
 
-{{< note title="Dieser Beitrag ist noch nicht fertig." >}}
-
 Im Januar 2025 hat die Gemeinde Köniz [als eine der ersten Gemeinden der Schweiz](https://www.derbund.ch/koeniz-fuehrt-handyverbot-in-der-schule-flaechendeckend-ein-574522359970) an sämtlichen Schulen Smartphones verboten. Für mich war das der Anlass, den Bestseller von Jonathan Haidt zu lesen, der seit einem halben Jahr kontrovers diskutiert wird. Bereits vor zehn Jahren hat der Hirnforscher Manfred Spitzer im deutschsprachigen Raum vor der Benutzung von Smartphones und weiteren bildschirmbasierten Medien durch Kinder und Jugendliche gewarnt und wird seither von vielen Medienpädagogen belächelt oder sogar schlecht gemacht.
 Nun also das Buch von Jonathan Haidt. Herr Haidt zeigt in seinem Buch die "spielbasierte Kindheit" bis etwa 2010 und die darauffolgende "smartphonebasierte Kindheit". Damit stellt er eine Kindheit, in der der natürliche Spieltrieb und damit das soziale, synchrone[^1] Lernen die grösste Rolle spielen, einer Kindheit gegenüber, in der dieser Trieb durch suchterzeugende Plattformen amerikanischer Tech-Firmen[^2] verdrängt wird.
 
