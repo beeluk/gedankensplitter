@@ -1,4 +1,4 @@
 ---
-title: "Drafts"
+title: "Entwürfe"
 draft: true
 ---
