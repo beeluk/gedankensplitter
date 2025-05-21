@@ -34,3 +34,6 @@ pagerSize = 5
     name = "Suche"
     url = "/search/"
     weight = 30
+
+[build]
+buildDrafts = true
