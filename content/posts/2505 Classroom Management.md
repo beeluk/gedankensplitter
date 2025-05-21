@@ -6,10 +6,6 @@ tags: ["Erziehung"]
 categories: ["Buch"]
 ---
 
-{{< note title="Dieser Beitrag ist noch nicht fertig." >}}
-
-
-
 ## Meine Notizen:
 
 * 12 Die **KLASSENFÜHRUNG IST DER WICHTIGSTE FAKTOR** für erfolgreichen Unterricht. Nur mit einem Lernförderlichen Klima, klaren Strukturen und Regeln, die eingehalten werden, können Lernprozesse wirksam werden.
