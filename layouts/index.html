@@ -4,6 +4,6 @@
   {{ $pages := where site.RegularPages "Draft" false }}
   {{ $paginator := .Paginate $pages }}
   {{ range $paginator.Pages }}
-    {{ partial "posts-list.html" (dict "context" . "page" . "Site" .Site) }}
+    {{ partial "posts/list.html" (dict "context" . "page" . "Site" .Site) }}
   {{ end }}
 {{ end }}
