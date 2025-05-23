@@ -1,7 +1,9 @@
 {{ define "main" }}
-  {{ $pages := where .Site.RegularPages "Draft" false }}
+  {{ partial "home-info.html" . }}
+
+  {{ $pages := where site.RegularPages "Draft" false }}
   {{ $paginator := .Paginate $pages }}
   {{ range $paginator.Pages }}
-    {{ partial "components/summary.html" . }}
+    {{ partial "li.html" (dict "context" . "page" . "Site" .Site) }}
   {{ end }}
 {{ end }}
