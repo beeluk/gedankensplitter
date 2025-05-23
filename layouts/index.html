@@ -1,5 +1,5 @@
 {{ define "main" }}
-  {{ partial "home-info.html" . }}
+  {{ partial "home_info.html" . }}
 
   {{ $pages := where site.RegularPages "Draft" false }}
   {{ $paginator := .Paginate $pages }}
