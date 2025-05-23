@@ -6,7 +6,7 @@ tags: ["Erziehung"]
 categories: ["Buch"]
 ---
 
-{{< notice info >}} Dieser Beitrag ist noch nicht fertig. {{< /notice >}}
+{{< notice info >}} Dieser Beitrag ist noch in Bearbeitung und deshalb unvollständig. {{< /notice >}}
 
 
 ## Meine Notizen:
