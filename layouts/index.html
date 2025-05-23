@@ -45,7 +45,8 @@
 {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true"  }}
 {{- end }}
 
-{{ $filteredPages := where .Pages "Draft" false }}
+{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- $filteredPages := where $pages "Draft" false }}
 {{ $paginator := .Paginate $filteredPages }}
 
 {{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
