@@ -29,8 +29,6 @@ categories: ["Buch"]
 * 59 Präventives Lehrpersonen-Verhalten reduziert Unterrichtsstörungen massiv[^2]. Dazu gehört eine starke Präsenz, klare Regeln, reibungslose Abläufe (kein Leerlauf!), die Aktivierung aller Lernenden und nicht zuletzt eine gute, vertrauensvolle Klassengemeinschaft.
 
 
-- - -
-
 [^1]: In dieser Quelle kommt noch die Komponente "Grundsätzliche Kooperationsbereitschaft" hinzu.
 [^2]: Im Buch werden Bennet und Smilanich zitiert, die von bis zu fünf mal weniger Unterrichtszeit sprechen, die für Disziplinierung aufgewendet werden muss.
 
