@@ -1,6 +1,3 @@
 {{ define "main" }}
-  {{ $pages := where .Pages "Draft" false }}
-  {{ range $pages }}
-    {{ partial "li.html" (dict "context" . "page" . "Site" .Site) }}
-  {{ end }}
+  {{ partial "posts-list.html" . }}
 {{ end }}
