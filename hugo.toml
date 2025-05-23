@@ -21,15 +21,15 @@ pagerSize = 5
 
 [menu]
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/posts/"
-    weight = 10
-  [[menu.main]]
     identifier = "archive"
     name = "Archiv"
     url = "/archives/"
     weight = 12
+  [[menu.main]]
+    identifier = "drafts"
+    name = "Entwürfe"
+    url = "/drafts/"
+    weight = 10
   [[menu.main]]
     identifier = "search"
     name = "Suche"
