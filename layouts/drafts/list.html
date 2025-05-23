@@ -1,8 +1,3 @@
 {{ define "main" }}
-  <h1>Entwürfe</h1>
-  <ul>
-    {{ range where .Site.RegularPages "Draft" true }}
-      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> – {{ .Date.Format "02.01.2006" }}</li>
-    {{ end }}
-  </ul>
+  {{ partial "posts-list.html" . }}
 {{ end }}
