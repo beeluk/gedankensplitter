@@ -1,0 +1,7 @@
+{{ define "main" }}
+  {{ $pages := where .Site.RegularPages "Draft" false }}
+  {{ $paginator := .Paginate $pages }}
+  {{ range $paginator.Pages }}
+    {{ partial "components/summary.html" . }}
+  {{ end }}
+{{ end }}
