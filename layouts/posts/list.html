@@ -1,4 +1,4 @@
 {{ define "main" }}
   {{ $pages := where .Pages "Draft" false }}
-  {{ partial "list.html" (dict "Pages" $pages "Context" .) }}
+  {{ partial "section.html" (dict "Pages" $pages "Context" .) }}
 {{ end }}
