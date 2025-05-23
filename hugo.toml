@@ -3,6 +3,7 @@ title = "Lukas Beer"
 theme = "PaperMod"
 defaultContentLanguage = "de"
 languageCode = "de-DE"
+buildDrafts = true
 
 [pagination]
 pagerSize = 5
@@ -34,6 +35,3 @@ pagerSize = 5
     name = "Suche"
     url = "/search/"
     weight = 30
-
-[build]
-buildDrafts = true
