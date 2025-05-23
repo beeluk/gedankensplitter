@@ -24,12 +24,12 @@ pagerSize = 5
     identifier = "archive"
     name = "Archiv"
     url = "/archives/"
-    weight = 12
+    weight = 10
   [[menu.main]]
     identifier = "drafts"
     name = "Entwürfe"
     url = "/drafts/"
-    weight = 10
+    weight = 12
   [[menu.main]]
     identifier = "search"
     name = "Suche"
