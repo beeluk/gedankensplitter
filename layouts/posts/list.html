@@ -1,9 +1,4 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  <ul>
-    {{ $pages := where .Pages "Draft" false }}
-    {{ range $pages }}
-      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-    {{ end }}
-  </ul>
+  {{ $pages := where .Pages "Draft" false }}
+  {{ partial "list.html" (dict "Pages" $pages "Context" .) }}
 {{ end }}
