@@ -1,6 +1,6 @@
 ---
 title: "Generation Angst"
-date: 2025-02-10
+date: 2025-05-29
 draft: true
 tags: ["Erziehung"]
 categories: ["Buch"]
