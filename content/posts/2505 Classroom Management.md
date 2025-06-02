@@ -1,12 +1,12 @@
 ---
 title: "Classroom Management"
-date: 2025-05-01
+date: 2025-06-02
 draft: true
 tags: ["Erziehung"]
 categories: ["Buch"]
 ---
 
-{{< notice info >}} Dieser Beitrag ist noch in Bearbeitung und deshalb unvollständig. {{< /notice >}}
+{{< notice info >}} Dieser Beitrag ist noch nicht fertig. {{< /notice >}}
 
 
 ## Meine Notizen:
@@ -25,10 +25,14 @@ categories: ["Buch"]
 * 38 "Autorität ist also nicht etwas, was man hat oder mitbringt. Sie ist etwas, das man durch sein Verhalten und seine Haltung erwirbt."
 * 41 Positive Beziehung besteht aus [fünf Komponenten](https://lehrerfortbildung-bw.de/s_sueb/allgschulen/veranstalt/tt-4b-2010/inhalte/f_2/03/)[^1]. Sie muss immer auch wechselseitig sein. So wie die Lehrperson Schüler "lesen" soll, so muss sie sich bis zu einem gewissen Grad ihnen Gegenüber auch öffnen. 
 * 46 Es gehört zur Professionalität, sich darüber bewusst zu sein, dass man nicht alle Schülerinnen gleich behandelt und aktiv Gegenmassnahmen zu treffen (z.B. bewusster Fokus auf Kinder, die es schwer haben).
-* 53 Ein Kind zu beschämen hat auch Auswirkungen auf den Rest der Klasse - wie ein Stein, der ins Wasser geworfen wird und Wellen erzeugt.
-* 59 Präventives Lehrpersonen-Verhalten reduziert Unterrichtsstörungen massiv[^2]. Dazu gehört eine starke Präsenz, klare Regeln, reibungslose Abläufe (kein Leerlauf!), die Aktivierung aller Lernenden und nicht zuletzt eine gute, vertrauensvolle Klassengemeinschaft.
+* 53 **Ein Kind zu beschämen hat auch Auswirkungen auf den Rest der Klasse** - wie ein Stein, der ins Wasser geworfen wird und Wellen erzeugt.
+* 59 **PRÄVENTIVES LEHRPERSONEN-VERHALTEN REDUZIERT UNTERRICHTSSTÖRUNGEN MASSIV**[^2]. Dazu gehört eine starke Präsenz, klare Regeln, reibungslose Abläufe (kein Leerlauf!), die Aktivierung aller Lernenden und nicht zuletzt eine gute, vertrauensvolle Klassengemeinschaft.
+* 63 Störungsfreier Unterricht ist zwar nicht immer möglich, er sollte aber der Anspruch einer guten Lehrperson sein. Die Haltung verändert auch das Verhalten und die Reaktion bei Störungen wesentlich und dies kann durchaus zu einem grundsätzlich störungsfreien Lernen führen.
+* 66 Räumliche Präsenz hat in der Klassenführung einen enormen Einfluss. [Alles, was sich mehr als ca. 3,5 Meter von einer Person entfernt befindet, wird von dieser als öffentlicher Raum wahrgenommen.](https://www.nonverbale-kommunikation.ch/2018/04/22/distanzzonen-die-4-bereiche-der-raeumlichen-koerpersprache/) **Mit einer Veränderung der Nähe zwischen Lehrperson und Lernendem kann also Verbindlichkeit geschaffen werden.**[^3] Die Lehrperson kann dies im Unterricht immer wieder ganz bewusst einsetzen.
+* 67 Auch die Raumeinrichtung hat eine grosse Auswirkung auf Aufmerksamkeit und Störungen. Leider sind viele Klassenzimmer zu klein, um sie adäquat für "modernen" Unterricht einrichten zu können. Deshalb sollte in erster Linie darauf geachtet werden, dass er freundlich und gepflegt wirkt und die Lehrperson möglichst bei allen Lernenden präsent sein kann.
 
 
 [^1]: In dieser Quelle kommt noch die Komponente "Grundsätzliche Kooperationsbereitschaft" hinzu.
 [^2]: Im Buch werden Bennet und Smilanich zitiert, die von bis zu fünf mal weniger Unterrichtszeit sprechen, die für Disziplinierung aufgewendet werden muss.
+[^3]: Präsenz ist auch ein Grundpfeiler der neuen Autorität. Die Wirkung von Präsenz ist tatsächlich enorm und häufig kräftiger als verbale Kommunikation.
 
